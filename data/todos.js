@@ -1,0 +1,22 @@
+export const data = [
+    { "id": 1, "task": "Buy groceries", "completed": false },
+    { "id": 2, "task": "Clean the house", "completed": true },
+    { "id": 3, "task": "Finish project report", "completed": false },
+    { "id": 4, "task": "Call mom", "completed": true },
+    { "id": 5, "task": "Workout for 30 minutes", "completed": false },
+    { "id": 6, "task": "Read a book", "completed": true },
+    { "id": 7, "task": "Reply to emails", "completed": false },
+    { "id": 8, "task": "Prepare dinner", "completed": true },
+    { "id": 9, "task": "Go for a walk", "completed": false },
+    { "id": 10, "task": "Pay electricity bill", "completed": true },
+    { "id": 11, "task": "Fix the leaky faucet", "completed": false },
+    { "id": 12, "task": "Organize the garage", "completed": true },
+    { "id": 13, "task": "Write blog post", "completed": false },
+    { "id": 14, "task": "Schedule doctor's appointment", "completed": true },
+    { "id": 15, "task": "Watch a documentary", "completed": false },
+    { "id": 16, "task": "Update resume", "completed": true },
+    { "id": 17, "task": "Meditate for 10 minutes", "completed": false },
+    { "id": 18, "task": "Learn a new recipe", "completed": true },
+    { "id": 19, "task": "Call a friend", "completed": false },
+    { "id": 20, "task": "Plan weekend trip", "completed": true }
+  ];  
