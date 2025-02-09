@@ -14,6 +14,6 @@ This Todo Application is built using React Native and Expo, designed to manage d
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/pranavmody1234/todo-app.git
+git clone [https://github.com/pranavmody1234/todo-app.git](https://github.com/pranavmody1234/Todo-List.git)
 cd todo-app
 npm install
